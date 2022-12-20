@@ -5,7 +5,7 @@
 - 📫 How to reach me: camstephenson2017@gmail.com
 
 ## Technologies
-[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,vite,vscode,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,vite,php,vscode,docker)](https://skillicons.dev)
 
 <!---
 CamSteph/CamSteph is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
